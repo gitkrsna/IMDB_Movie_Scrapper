@@ -16,7 +16,7 @@ os.environ['DJANGO_SETTINGS_MODULE'] = 'best_movies.settings'
 import django
 django.setup()
 
-#DOWNLOAD_DELAY = 1
+DOWNLOAD_DELAY = 1
 
 
 from best_movies.settings import MEDIA_ROOT

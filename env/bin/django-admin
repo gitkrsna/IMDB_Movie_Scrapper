@@ -1,4 +1,4 @@
-#!/home/krishna/trainman/best_movies/env/bin/python3
+#!/home/krishna/best_movies/env/bin/python3
 
 # -*- coding: utf-8 -*-
 import re
